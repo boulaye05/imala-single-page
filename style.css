@@ -1,0 +1,10 @@
+body {
+font-family: Arial;
+color: black;
+}
+.gros-titre {
+font-size: 30px;
+}
+p:hover {
+text-decoration: underline;
+}
